@@ -1,0 +1,16 @@
+C:\Users\monik\Desktop\Projekty\Palidromy\Palidromy\bin\Debug\net5.0\Palidromy.exe
+C:\Users\monik\Desktop\Projekty\Palidromy\Palidromy\bin\Debug\net5.0\Palidromy.deps.json
+C:\Users\monik\Desktop\Projekty\Palidromy\Palidromy\bin\Debug\net5.0\Palidromy.runtimeconfig.json
+C:\Users\monik\Desktop\Projekty\Palidromy\Palidromy\bin\Debug\net5.0\Palidromy.runtimeconfig.dev.json
+C:\Users\monik\Desktop\Projekty\Palidromy\Palidromy\bin\Debug\net5.0\Palidromy.dll
+C:\Users\monik\Desktop\Projekty\Palidromy\Palidromy\bin\Debug\net5.0\Palidromy.pdb
+C:\Users\monik\Desktop\Projekty\Palidromy\Palidromy\obj\Debug\net5.0\Palidromy.csproj.AssemblyReference.cache
+C:\Users\monik\Desktop\Projekty\Palidromy\Palidromy\obj\Debug\net5.0\Palidromy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\monik\Desktop\Projekty\Palidromy\Palidromy\obj\Debug\net5.0\Palidromy.AssemblyInfoInputs.cache
+C:\Users\monik\Desktop\Projekty\Palidromy\Palidromy\obj\Debug\net5.0\Palidromy.AssemblyInfo.cs
+C:\Users\monik\Desktop\Projekty\Palidromy\Palidromy\obj\Debug\net5.0\Palidromy.csproj.CoreCompileInputs.cache
+C:\Users\monik\Desktop\Projekty\Palidromy\Palidromy\obj\Debug\net5.0\Palidromy.dll
+C:\Users\monik\Desktop\Projekty\Palidromy\Palidromy\obj\Debug\net5.0\refint\Palidromy.dll
+C:\Users\monik\Desktop\Projekty\Palidromy\Palidromy\obj\Debug\net5.0\Palidromy.pdb
+C:\Users\monik\Desktop\Projekty\Palidromy\Palidromy\obj\Debug\net5.0\Palidromy.genruntimeconfig.cache
+C:\Users\monik\Desktop\Projekty\Palidromy\Palidromy\obj\Debug\net5.0\ref\Palidromy.dll
